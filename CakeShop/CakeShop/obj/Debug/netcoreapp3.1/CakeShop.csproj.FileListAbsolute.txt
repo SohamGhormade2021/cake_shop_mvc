@@ -19,3 +19,14 @@ C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.Razo
 C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.dll
 C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.pdb
 C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.genruntimeconfig.cache
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.RazorAssemblyInfo.cache
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.RazorAssemblyInfo.cs
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.TagHelpers.input.cache
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.TagHelpers.output.cache
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.RazorCoreGenerate.cache
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.RazorTargetAssemblyInfo.cs
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\bin\Debug\netcoreapp3.1\CakeShop.Views.dll
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\bin\Debug\netcoreapp3.1\CakeShop.Views.pdb
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.Views.pdb
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.csproj.CopyComplete
