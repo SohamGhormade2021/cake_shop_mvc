@@ -30,3 +30,7 @@ C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\bin\Debug\netcoreapp3.1\CakeShop.View
 C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\bin\Debug\netcoreapp3.1\CakeShop.Views.pdb
 C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.Views.pdb
 C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\CakeShop.csproj.CopyComplete
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Sandbox\cake_shop_mvc\CakeShop\CakeShop\bin\Debug\netcoreapp3.1\libman.json
