@@ -26,6 +26,10 @@ namespace CakeShop
             services.AddControllersWithViews();
             services.AddScoped<IPieRepository, PieRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
+            // ensure that shopping cart (with HTTP session id) is associated with ser
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+            services.AddHttpContextAccessor();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -38,7 +42,12 @@ namespace CakeShop
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            // Gill: Call Session before Routing. Order is important.
+            // Soham: check why this is the case
+            app.UseSession();
             app.UseRouting();
+            
+       
 
             app.UseEndpoints(endpoints =>
             {
