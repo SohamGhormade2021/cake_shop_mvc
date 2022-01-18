@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Misc
+*.g.cs
+*.json
+*.cache
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +34,14 @@
 *.exe
 *.out
 *.app
+/CakeShop/CakeShop/bin/*
+/CakeShop/CakeShop/obj/*
+/CakeShop/CakeShop/obj/project.assets.json
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.assets.cache
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.csproj.CoreCompileInputs.cache
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.csproj.FileListAbsolute.txt
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.dll
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.pdb
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.RazorCoreGenerate.cache
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.Views.dll
+/CakeShop/CakeShop/obj/Debug/netcoreapp3.1/CakeShop.Views.pdb
